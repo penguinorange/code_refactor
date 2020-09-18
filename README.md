@@ -5,7 +5,7 @@ Ensure code meets accessibility standards; Refactor Code for posterity.
 
 # Changes Made
   -Fixed broken links
-  -Added semantic tags where aproppriate
+  -Added semantic elements where aproppriate
   -Reduced overall CSS code
 
 
